@@ -92,6 +92,7 @@ body {
     background: #49c1a2;
     cursor: pointer;
     border: none;
+    border-radius: 5px;
 }
 
 .form-wrap button:hover {
