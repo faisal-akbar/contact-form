@@ -14,9 +14,7 @@ body {
 
 #container {
     width: 500px;
-    /* height: 500px; */
     margin: 0 auto;
-    /* background: #f7f7f7; */
     position: absolute;
     left: 50%;
     top: 50%;
@@ -179,7 +177,5 @@ form>div .requirements {
         /* margin-top: -250px; */
         border-radius: 5px;
     }
-
-
 
 }
